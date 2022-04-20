@@ -1,0 +1,49 @@
+{
+  "comment": [
+    {
+      "id": 1,
+      "content": "안녕하세요",
+      "postId": 1,
+      "responseTo": null,
+      "writer": "kim"
+    },
+    {
+      "content": "second try",
+      "writer": "Hong",
+      "postId": 1,
+      "responseTo": "kim",
+      "id": 2
+    },
+    {
+      "content": "second try",
+      "writer": "Lee",
+      "responseTo": 1,
+      "postId": 2,
+      "id": 3
+    },
+    {
+      "content": "fourth try",
+      "writer": "Park",
+      "postId": 1,
+      "id": 4
+    },
+    {
+      "content": "5",
+      "writer": "Choi",
+      "postId": 3,
+      "id": 5
+    },
+    {
+      "content": "asd\n",
+      "writer": "Suk",
+      "postId": 1,
+      "id": 6
+    },
+    {
+      "content": "asd",
+      "writer": "Hong",
+      "postId": "1",
+      "id": 7
+    }
+  ]
+}
